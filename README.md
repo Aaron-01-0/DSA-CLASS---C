@@ -4,18 +4,8 @@ This repo is my personal journey through mastering **Data Structures and Algorit
 ---
 
 ## 📘 Topics Covered
-
-- ✅ Arrays & Strings
-- ✅ Searching (Linear, Binary)
 - ✅ Sorting (Bubble, Selection, Insertion, Quick, Merge)
-- ✅ Recursion & Backtracking
-- ✅ Pointers & Memory Concepts
-- ✅ Stacks & Queues (Array + Linked List)
-- ✅ Linked Lists (Singly, Doubly, Circular)
-- ✅ Trees & Binary Search Trees
-- ✅ Graphs (BFS, DFS)
-- ✅ Hashing, Heaps, and More...
-
+- ✅ More...
 ---
 
 ## ⚙️ Tech Stack
